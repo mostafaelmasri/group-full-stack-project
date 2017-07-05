@@ -77,7 +77,6 @@
 .icon-calendar,
 .icon-ringbell,
 .icon-movie,
-.icon-mail,
 .icon-pen,
 .icon-settings,
 .icon-measure,
@@ -201,7 +200,7 @@
   font-variant: normal;
   font-weight: normal;
   color:#e3e3e3;
-  speak: none; 
+  speak: none;
   text-transform: none;
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -277,7 +276,7 @@
 .icon-calendar:before { content: "\F4C5"; }
 .icon-ringbell:before { content: "\f03f"; }
 .icon-movie:before { content: "\f040"; }
-.icon-mail:before { content: "\2709"; }
+/*.icon-mail:before { content: "\2709"; }*/
 .icon-pen:before { content: "\270F"; }
 .icon-settings:before { content: "\9881"; }
 .icon-measure:before { content: "\f044"; }
@@ -593,7 +592,7 @@
 .icon-sli-social-youtube,
 .icon-sli-social-dropbox {
   font-family: 'sli';
-  font-style: normal;  
+  font-style: normal;
   font-variant: normal;
   font-weight: normal;
   color:#e3e3e3;
