@@ -1,9 +1,3 @@
-﻿/*
- * Responsee CSS - v4.1 - 2017-05-14
- * https://www.myresponsee.com
- * Copyright 2016, Vision Design - graphic zoo
- * Free to use under the MIT license.
-*/
 * {
   -webkit-box-sizing:border-box;
   -moz-box-sizing:border-box;
@@ -139,14 +133,14 @@ nav {
   color:#fff;
   display:block;
   font-size:1rem;
-  padding:1.25rem;
+  padding:2.10rem;
 }
 .top-nav li ul li a {
   background:none repeat scroll 0 0 #152732;
   min-width:100%;
   padding:0.625rem;
 }
-.top-nav li a:hover, .aside-nav li a:hover {background:rgba(153, 153, 153, 0.25);}
+/*.top-nav li a:hover, .aside-nav li a:hover {background:rgba(153, 153, 153, 0.25);}*/
 .top-nav li ul {display:none;}
 .top-nav li ul li,.top-nav li ul li ul li {
   float:none;
