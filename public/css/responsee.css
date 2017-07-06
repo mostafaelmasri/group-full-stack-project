@@ -114,7 +114,7 @@ nav {
   clear:both;
   content:".";
   display:block;
-  height: 0;
+  height:0;
   line-height:0;
   overflow: hidden;
   visibility:hidden;
